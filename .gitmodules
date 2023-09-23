@@ -1,6 +1,8 @@
 [submodule "socketAppPython"]
 	path = socketAppPython
 	url = https://github.com/anantakumarghosh/socketAppPython.git
+	branch = main
 [submodule "socketAppExpress"]
 	path = socketAppExpress
 	url = https://github.com/anantakumarghosh/socketAppExpress.git
+	branch = main
