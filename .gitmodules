@@ -1,0 +1,6 @@
+[submodule "socketAppPython"]
+	path = socketAppPython
+	url = https://github.com/anantakumarghosh/socketAppPython.git
+[submodule "socketAppExpress"]
+	path = socketAppExpress
+	url = https://github.com/anantakumarghosh/socketAppExpress.git
