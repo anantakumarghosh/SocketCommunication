@@ -5,7 +5,15 @@ Bi-directional socket communication between Flask App and Express App
 Go to socketAppPython (Flask App)
 
 Install python flask
+
+Linux/Mac:   
+Run `python3 -m venv .venv`
+Run `. .venv/bin/activate`
 Run `python3 app.py`
+
+Windows:
+run `.venv\Scripts\activate`
+Run `py -3 -m venv .venv`
 
 Go to socketAppExpress
 
